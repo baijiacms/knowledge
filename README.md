@@ -2,4 +2,4 @@
 
 The source code of my personal knowledge base. Using PHP
 
-![image text](https://github.com/https://github.com/baijiacms/knowledge/blob/master/20220321123201.png)
+![image text](https://github.com/baijiacms/knowledge/blob/master/20220321123201.png)
